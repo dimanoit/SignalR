@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace Chat.Controllers
 {
     [Route("messages/")]
-    public class ValuesController : ControllerBase
+    [ApiController]
+    public class MessageController : ControllerBase
     {
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
