@@ -1,0 +1,14 @@
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\bin\Debug\netcoreapp2.2\Chat.deps.json
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\bin\Debug\netcoreapp2.2\Chat.runtimeconfig.json
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\bin\Debug\netcoreapp2.2\Chat.runtimeconfig.dev.json
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\bin\Debug\netcoreapp2.2\Chat.dll
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\bin\Debug\netcoreapp2.2\Chat.pdb
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.csprojAssemblyReference.cache
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.RazorAssemblyInfo.cache
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.RazorAssemblyInfo.cs
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.AssemblyInfoInputs.cache
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.AssemblyInfo.cs
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.RazorTargetAssemblyInfo.cache
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.dll
+C:\Users\Dima\Documents\Programming\SignalR\SignalR\Chat\Chat\obj\Debug\netcoreapp2.2\Chat.pdb
